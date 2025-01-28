@@ -12,6 +12,9 @@ namespace WorkshopWindowsProject
             lstListe.Items.Add("Caner Mollaoðlu");
             MessageBox.Show("Test");
             MessageBox.Show("Deneme");
+            MessageBox.Show("Deneme1");
+            MessageBox.Show("Deneme2");
+
 
 
         }
