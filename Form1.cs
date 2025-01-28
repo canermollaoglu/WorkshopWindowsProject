@@ -18,6 +18,8 @@ namespace WorkshopWindowsProject
 
             List<string> liste = new List<string>();
             liste.Add("Ýstanbul Eðitim Akademi");
+            liste.Add("Hatice Kübra Tosun");
+
 
 
         }
