@@ -55,7 +55,7 @@
             // 
             AutoScaleDimensions = new SizeF(15F, 37F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(308, 433);
+            ClientSize = new Size(287, 414);
             Controls.Add(lstListe);
             Controls.Add(btnEkle);
             Font = new Font("Segoe UI", 20F);
