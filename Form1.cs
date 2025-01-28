@@ -13,6 +13,9 @@ namespace WorkshopWindowsProject
             MessageBox.Show("Test");
             MessageBox.Show("Deneme");
 
+            List<string> liste = new List<string>();
+            liste.Add("Ýstanbul Eðitim Akademi");
+
 
         }
     }
