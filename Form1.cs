@@ -6,5 +6,10 @@ namespace WorkshopWindowsProject
         {
             InitializeComponent();
         }
+
+        private void btnEkle_Click(object sender, EventArgs e)
+        {
+            lstListe.Items.Add("Caner Mollaoðlu");
+        }
     }
 }

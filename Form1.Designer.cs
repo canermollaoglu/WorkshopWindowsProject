@@ -40,6 +40,7 @@
             btnEkle.TabIndex = 0;
             btnEkle.Text = "EKLE";
             btnEkle.UseVisualStyleBackColor = true;
+            btnEkle.Click += btnEkle_Click;
             // 
             // lstListe
             // 
